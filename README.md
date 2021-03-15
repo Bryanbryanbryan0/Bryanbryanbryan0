@@ -1,4 +1,4 @@
-I like to make a bot so i would like to explore more on making a bot :) 
+I like to make a bot using python so i would like to explore and learn more om bots :) 
 
 <!---
 Bryanbryanbryan0/Bryanbryanbryan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
